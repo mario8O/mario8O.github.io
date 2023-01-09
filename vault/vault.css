@@ -1,0 +1,119 @@
+.printView {
+    font-size: 30px;
+    overflow-wrap: anywhere;
+}
+
+.header {
+    font-family: Verdana, sans-serif;
+    font-size: 30px;
+    color: #2b28c5;
+    margin-bottom: 10px;
+}
+
+.firstName {
+    color: #70d3d4;
+    font-weight: bold;
+}
+
+.slogan {
+    font-family: 'Courier New', monospace;
+    font-size: 20px;
+    margin-left: 25px;
+}
+
+.rsa {
+    font-family: Verdana, sans-serif;
+    font-size: 22px;
+    background-color: #2b28c5;
+    color:rgb(220, 220, 220);
+    padding: 10px;
+    position: relative;
+}
+
+.rsaHeader {
+    font-size: 18px;
+    position: absolute;
+    right: 10px;
+}
+
+.checkbox {
+    height: 25px;
+    width: 25px;
+    margin-right: 10px;
+}
+
+select {
+    font-family: Verdana, sans-serif;
+    font-size: 22px;
+    height: 40px;
+}
+
+.timelock {
+    padding: 5px;
+    padding-left: 0;
+}
+
+.timelockWarning {
+    font-size: 14px;
+    color: rgb(220, 220, 220);
+    margin: 5px;
+    margin-left: 0px;
+}
+
+.aes {
+    background-color: #70d3d4;
+    color: rgb(101, 101, 101);
+    padding: 10px;
+    position: relative;
+}
+
+.aesHeader {
+    font-size: 18px;
+    position: absolute;
+    right: 10px;
+}
+
+.passwordField {
+    margin-top: 18px;
+}
+
+input {
+    font-family: Verdana, sans-serif;
+    font-size: 22px;
+    width: 450px;
+    height: 40px;
+    margin: 3px;
+    margin-left: 0;
+}
+
+button {
+    font-family: Verdana, sans-serif;
+    font-size: 22px;
+    min-width: 50px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.actionButtons {
+    margin: 5px;
+    margin-left: 0px;
+}
+
+textarea {
+    font-family: Verdana, sans-serif;
+    font-size: 22px;
+    width: 99%;
+    height: 300px;
+}
+
+.keyboardButtons {
+    text-align: center;
+    white-space: nowrap;
+    padding: 5px;
+}
+
+.footer {
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+    margin-top: 15px;
+}
